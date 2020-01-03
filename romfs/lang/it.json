@@ -15,7 +15,7 @@
         "usb": {
             "warn": {
                 "title": "Attenzione!",
-                "desc": "Le installazioni tramite USB possono "non funzionare" su alcuni dispositivi .\Se riscontri errori durante le installazioni tramite USB, per favore non strapparti i capelli! È consigliato usare l'NS-USBloader per le installazioni tramite USB, o installazioni tramite LAN/Internet al posto delle installazioni remote, specialmente se si è abbinato ad un adattatore Ethernet! Sei stato avvisato...",
+                "desc": "Le installazioni tramite USB possono \"non funzionare"\ su alcuni dispositivi .\nSe riscontri errori durante le installazioni tramite USB, per favore non strapparti i \ncapelli! È consigliato usare l'NS-USBloader per le installazioni tramite USB, o installazioni tramite \nLAN/Internet al posto delle installazioni remote, specialmente \nquando si è abbinato ad un adattatore Ethernet! \n\nSei stato avvisato...",
                 "opt1": "Non mostrarlo più"
             },
             "error": {
@@ -25,7 +25,7 @@
         },
         "applet": {
             "title": "Applet Mode non supportata",
-            "desc": "Potresti riscontrare errori se usi Awoo Installer in Applet Mode. Se riscontri problemi, per favore passa ad avviare Awoo Installer tramite un titolo installato.(tieni premuto R quando hai avviato un gioco)!"
+            "desc": "Potresti riscontrare errori se usi Awoo Installer in Applet Mode. Se \nriscontri problemi, per favore passa ad avviare Awoo Installer tramite un \ntitolo installato.(tieni premuto R quando hai avviato un gioco)!"
         },
         "buttons": "\ue0e0 Seleziona    \ue0e1 Esci "
     },
@@ -33,7 +33,7 @@
         "net": {
             "help": {
                 "title": "Aiuto",
-                "desc": "I file posso essere installati remotamente da altri dispositivi usando altri strumenti come: NS-USBloader nella modalità Tinfoil. Per mandare i file alla tua Switch, apri uno dei software sul tuo PC o dispositivo mobile, immetti l'indirizzo IP della tua Switch (lo puoi trovare scritto sullo schermo), seleziona i file, poi mandali alla tua console! Se il software che stai usando non ti lascia selezionare i tipi di file, prova a rinominare le estensioni in un formato che accetta. Ad Awoo Installer non gli importa delle estensioni dei file durante le installazioni tramite internet! Se non riesci a farcela , copia semplicemente i file nella tua SD e prova l'opzione "Installa dall'SD" "dal menu principale!"
+                "desc": "I file posso essere installati remotamente da altri dispositivi usando altri strumenti come\nas NS-USBloader nella modalità Tinfoil. Per mandare i file alla tua Switch, apri uno dei software sul tuo PC o dispositivo mobile, immetti l'indirizzo IP della tua Switch (lo puoi trovare scritto sullo schermo), seleziona i file, poi mandali alla tua console! Se il software che stai usando non ti lascia selezionare i tipi di file, prova a rinominare le estensioni in un formato che accetta. Ad Awoo Installer non gli importa delle estensioni dei file durante le installazioni tramite internet! Se non riesci a farcela , copia semplicemente i file nella tua SD e prova l'opzione "Installa dall'SD" "dal menu principale!"
             },
             "src": {
                 "title": "Da dove vuoi installare il file?",
